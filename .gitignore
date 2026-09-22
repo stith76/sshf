@@ -1,0 +1,11 @@
+build/
+
+sshf
+*.tar.gz
+*.o
+
+.vscode/
+.idea/
+*.swp
+.DS_Store
+.cache
